@@ -1,6 +1,6 @@
 #+TITLE: Intro to Coding
 #+AUTHOR: Josh Lehman
-#+EMAIL: freeoneday@hackreactor.com
+#+EMAIL: reactorprep@hackreactor.com
 #+CREATOR: Hack Reactor
 #+REVEAL_EXTRA_CSS: ./assets/presentation.extra.css
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/reveal.js/3.0.0/
@@ -9,7 +9,7 @@
 
 #+BEGIN_HTML
 <div id="logo-container">
-  <a href="http://hackreactor.com/remote-beta">
+  <a href="http://hackreactor.com">
     <img id="logo-image" src="assets/hr-logo.png">
   </a>
 </div>
@@ -34,10 +34,10 @@
   + Public chat in lecture
   + Private chat (see link in video details)
 
-** Questions about Hack Reactor & Remote Prep?
+** Questions about Hack Reactor & Reactor Prep?
 
-+ Information Session, 11:00-11:30AM PST
-+ See *Important URLS* in Twitch for link
+There will be an info session immediately following the workshop.
+
 ** What is Programming?
 
 + Programming /is/ the act of writing computer code
@@ -104,7 +104,6 @@ Do the following exercises at the console:
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Primitives: Strings
 
@@ -135,7 +134,6 @@ Do the following exercises at the console:
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Primitives: Booleans
 
@@ -172,7 +170,6 @@ Do the following exercises at the console:
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Variables
 
@@ -211,7 +208,6 @@ Do the following exercises at the console:
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Interlude: Equality
 
@@ -257,7 +253,6 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Compound Data: Arrays
 
@@ -308,7 +303,6 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Recap
 
@@ -346,7 +340,6 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Functions with Multiple Arguments
 
@@ -376,7 +369,6 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Functions with Data Structures
 
@@ -412,23 +404,16 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Recap
-
 
 + *Functions* describe how to perform a task given arguments (parameters)
   + Don't solve the same problem multiple times: /use a function/
 + Functions can take multiple arguments
 + Arguments to and results from functions can be any kind of data
 
-
 * Next Steps
-** 15 Minute Phone Call
 
-Schedule a 15 minute phone call (see *Important URLS* in Twitch)
+** Questions about Hack Reactor & Reactor Prep?
 
-** Questions about Hack Reactor & Remote Prep?
-
-+ Information Session, 11:15-11:45AM PST
-+ See *Important URLS* in Twitch for link
+There will be an info session immediately following the workshop.
