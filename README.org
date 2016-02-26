@@ -31,8 +31,7 @@
   + Follow along with examples in lecture
   + Exercises throughout
 + *Do not hesitate to ask for help*
-  + Public chat in lecture
-  + Private chat (see link in video details)
+  + Raise your hand so we can get you a microphone
 
 ** Questions about Hack Reactor & Reactor Prep?
 
