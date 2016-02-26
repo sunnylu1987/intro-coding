@@ -312,7 +312,7 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + *Arrays* represent many pieces of data (usually similar)
 * Basics of Functions
 
-/Functions/ allow us to represent a /task/ with a name and parameters.
+/Functions/ allow us to do work. We label that work with a name. The work to be performed may vary based on inputs.
 
 ** What are Functions?
 
