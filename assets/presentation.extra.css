@@ -13,29 +13,29 @@
 .reveal {
   background-color: #ecf3ec;
   color: #6b3362;
-  font-family: Triplicate T4p;
+  font-family: arial;
 }
 
 .reveal h1 {
-  font-family: Triplicate C4p;
+  font-family: arial;
   color: #6b3362;
 }
 
 .reveal h2 {
-  font-family: Triplicate C4p;
+  font-family: arial;
   color: #6b3362;
 }
 
 .reveal h3 {
-  font-family: Triplicate C4p;
+  font-family: arial;
   color: #6b3362;
 }
 
 .reveal pre {
-  font-family: Triplicate T4c;
+  font-family: arial;
 }
 .reveal code {
-  font-family: Triplicate T4c;
+  font-family: arial;
 }
 
 #logo-container {
